@@ -1,2 +1,3 @@
 # MachineLearningUtilities
-This is the code base that I have created so that it can re-used
+
+This is the code base that is created so that it can be reusable.
